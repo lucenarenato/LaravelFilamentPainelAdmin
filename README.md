@@ -1,5 +1,14 @@
 # Painel Admin Filament - Laravel
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
 ![image1](https://user-images.githubusercontent.com/19998735/154263601-ac603d1b-5e4a-4c1b-85d7-1d105e1b8f5f.png)
 
 ![image2](Screenshot_2023-09-13_194520.png)
@@ -7,7 +16,7 @@
 ![image4](Screenshot_2023-09-13_194608.png)
 
 
-## Optica2 - this a partial clone of a real project.
+## LaravelFilamentPainelAdmin - this a partial clone of a real project.
 
 This is for learning purposes only.
 
@@ -58,7 +67,7 @@ This guide walks you through the process of setting up a Laravel application usi
    Use the following commands to clone the repository and navigate into the directory:
 
     ```shell
-    git clone https://github.com/felipe-balloni/optica2.git optica2 && cd optica2
+    git clone https://github.com/lucenarenato/LaravelFilamentPainelAdmin.git laravel_admin && cd laravel_admin
     ```
 
 2. **Create a Docker container:**

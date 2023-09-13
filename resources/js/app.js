@@ -1,6 +1,9 @@
 import './bootstrap';
-import Alpine from 'alpinejs'
 
-window.Alpine = Alpine
+import Alpine from 'alpinejs';
+import focus from '@alpinejs/focus';
+window.Alpine = Alpine;
 
-Alpine.start()
+Alpine.plugin(focus);
+
+Alpine.start();
